@@ -8,7 +8,7 @@
 ## Two Solutions
 
 At the begin, I didn't encapsulate code, [@luxorules](https://github.com/luxorules/CardAnimation/tree/Component) refactor code into class and improve it to support not only image, then I encapsulate my code
-into class. So, there are two choices.
+into class. So there are two choices.
 
 #### CardContainerView by seedante
 
